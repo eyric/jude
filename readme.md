@@ -12,12 +12,12 @@
 
 - 登录
 
-  ![login](.\doc\login.png)
+  ![login](https://github.com/eyric/jude/blob/master/doc/login.png)
 
 - 首页
 
-  ![login](.\doc\index.png)
+  ![login](https://github.com/eyric/jude/blob/master/doc/index.png)
 
 - 商品
 
-  ![login](.\doc\goods.png)
+  ![login](https://github.com/eyric/jude/blob/master/doc/goods.png)
